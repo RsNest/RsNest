@@ -77,22 +77,10 @@ motto: >
 
 ## `> OPEN SOURCE`
 
-<div align="center">
+I contribute to open source projects in the areas of **VPN infrastructure**, **proxy protocols**, and **anti-censorship tooling**.
 
-[![3x-ui](https://img.shields.io/badge/MHSanaei%2F3x--ui-v2.9.3-EF7B4D?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/MHSanaei/3x-ui/releases/tag/v2.9.3)
-[![Feature](https://img.shields.io/badge/Feature-Copy_clients_between_inbounds-00cc44?style=for-the-badge&labelColor=0d1117)](https://github.com/MHSanaei/3x-ui/releases/tag/v2.9.3)
-
-```
- ┌─────────────────────────────────────────────────────────────┐
- │  ✅  merged & shipped  →  MHSanaei/3x-ui  @  v2.9.3        │
- │                                                              │
- │  Feature: Copy clients between inbounds                      │
- │  — allows bulk-migrating VLESS/VMess clients across          │
- │    inbound configs without manual re-entry                   │
- └─────────────────────────────────────────────────────────────┘
-```
-
-</div>
+[![3x-ui contributor](https://img.shields.io/badge/contributor-MHSanaei%2F3x--ui-00cc44?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/MHSanaei/3x-ui)
+[![merged](https://img.shields.io/badge/merged-v2.9.3-00eeff?style=flat-square&labelColor=0d1117)](https://github.com/MHSanaei/3x-ui/releases/tag/v2.9.3)
 
 <br/>
 

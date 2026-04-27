@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=900&color=00EEFF&background=00000000&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+DevOps+%2F+SRE+%2F+Go+Dev;%24+kubectl+get+pods+-A+%7C+grep+-v+Running+%23+0+issues;%24+argocd+app+sync+production+--force+%E2%9C%94;%24+terraform+plan+%7C+grep+%220+to+destroy%22+%E2%9C%94;%24+./zeroproxy+--protocol+vless+--reality+on+%F0%9F%9F2;%24+go+build+-o+bin%2Fservice+.%2F...+%E2%9C%94;%24+echo+%22automate+everything.+monitor+relentlessly.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=900&color=00EEFF&background=00000000&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+DevOps+%2F+SRE+%2F+Go+Dev;%24+kubectl+get+pods+-A+%7C+grep+-v+Running+%23+0+issues;%24+argocd+app+sync+production+--force+%E2%9C%94;%24+terraform+plan+%7C+grep+%220+to+destroy%22+%E2%9C%94;%24+./zeroproxy+--protocol+vless+--reality+on+%F0%9F%9F2;%24+git+log+MHSanaei%2F3x-ui+%23+%40RsNest+merged+v2.9.3+%F0%9F%9F2;%24+echo+%22automate+everything.+monitor+relentlessly.%22)](https://git.io/typing-svg)
 
 <br/>
 
@@ -75,16 +75,81 @@ motto: >
 
 ---
 
-## `> WHAT I'M SHIPPING`
+## `> OPEN SOURCE`
 
 <div align="center">
 
-| STATUS | PROJECT | STACK |
-|:---:|---|---|
-| 🟢 | **ZeroRoute** — Android VPN app | VLESS · REALITY · Anti-DPI · Jetpack Compose |
-| 🟢 | **Proxy cascade** — RU → EU bypass | Xray-core · nginx SNI · BBR · iptables |
-| 🟡 | **Telegram TLS hardening** | TlsSocket patch · Chrome 131 ClientHello |
-| 🔵 | **Go OSINT toolkit** | Go · in progress |
+[![3x-ui](https://img.shields.io/badge/MHSanaei%2F3x--ui-v2.9.3-EF7B4D?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/MHSanaei/3x-ui/releases/tag/v2.9.3)
+[![Feature](https://img.shields.io/badge/Feature-Copy_clients_between_inbounds-00cc44?style=for-the-badge&labelColor=0d1117)](https://github.com/MHSanaei/3x-ui/releases/tag/v2.9.3)
+
+```
+ ┌─────────────────────────────────────────────────────────────┐
+ │  ✅  merged & shipped  →  MHSanaei/3x-ui  @  v2.9.3        │
+ │                                                              │
+ │  Feature: Copy clients between inbounds                      │
+ │  — allows bulk-migrating VLESS/VMess clients across          │
+ │    inbound configs without manual re-entry                   │
+ └─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+---
+
+## `> WHAT I'M BUILDING`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🛡️ ZeroRoute**
+
+![](https://img.shields.io/badge/status-active-00cc44?style=flat-square&labelColor=0d1117)
+
+Android VPN app<br/>
+`VLESS` `REALITY` `Anti-DPI`<br/>
+Jetpack Compose UI
+
+</td>
+<td align="center" width="25%">
+
+**🔀 Proxy Cascade**
+
+![](https://img.shields.io/badge/status-active-00cc44?style=flat-square&labelColor=0d1117)
+
+RU entry → EU backend<br/>
+`Xray` `nginx SNI` `BBR`<br/>
+iptables NAT
+
+</td>
+<td align="center" width="25%">
+
+**🔐 TG TLS Patch**
+
+![](https://img.shields.io/badge/status-WIP-ffaa00?style=flat-square&labelColor=0d1117)
+
+Telegram Desktop<br/>
+`TlsSocket` hardening<br/>
+Chrome 131 fingerprint
+
+</td>
+<td align="center" width="25%">
+
+**🔍 Go OSINT**
+
+![](https://img.shields.io/badge/status-early-0077ff?style=flat-square&labelColor=0d1117)
+
+OSINT toolkit in Go<br/>
+`Go` research tool<br/>
+in progress...
+
+</td>
+</tr>
+</table>
 
 </div>
 

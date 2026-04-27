@@ -1,26 +1,30 @@
 <div align="center">
 
-<!-- BANNER: загрузи файл banner.png из предыдущего чата прямо в корень репо RsNest/RsNest -->
-<!-- и раскомментируй строку ниже вместо capsule-render -->
-<!-- <img src="banner.png" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:000d00,60:001a00,100:000000&height=280&text=%3E_%20RUSLAN&fontColor=00ff41&fontSize=100&fontAlignY=52&desc=sre%40localhost%3A~%24%20uname%20--all&descFontColor=00cc33&descSize=20&descAlignY=72&animation=twinkling&stroke=00ff41&strokeWidth=1.5" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,70:003300,100:000000&height=250&text=%3E_%20RUSLAN&fontColor=00ff41&fontSize=90&fontAlignY=55&desc=sre%40localhost%3A~%24%20skills%20--matrix&descFontColor=00cc33&descSize=18&descAlignY=75&animation=twinkling&stroke=00ff41&strokeWidth=1" width="100%"/>
+</div>
 
-<br/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+DevOps+%2F+SRE+%2F+Go+Dev;%24+kubectl+get+nodes+--all-namespaces+%E2%9C%94;%24+terraform+apply+--auto-approve+%E2%9C%94;%24+argocd+app+sync+production+%E2%9C%94;%24+go+build+.+%2F%2F+still+compiling...;%24+echo+%22automate+everything%2C+monitor+relentlessly%22)](https://git.io/typing-svg)
-
-<br/>
-
-![](https://img.shields.io/badge/%F0%9F%96%A5_CPU-12%25-00ff41?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/MEM-28%25-00ff41?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/NET-3.2KB%2Fs-00ff41?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/STATUS-ALL_SYSTEMS_NOMINAL-00ff41?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/UPTIME-99.9%25-00ff41?style=flat-square&labelColor=0d0d0d)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+DevOps+Engineer+%2F+SRE+%2F+Go+Dev;%24+kubectl+get+pods+-A+%7C+grep+-v+Running+%23+nothing+to+show;%24+argocd+app+sync+production+--force+%E2%9C%94;%24+terraform+plan+%7C+grep+%22+0+to+destroy%22+%E2%9C%94;%24+./zeroproxy+--protocol+vless+--reality+on+%F0%9F%9F%A2;%24+go+build+-o+bin%2Fservice+.%2F...+%23+compiling...;%24+echo+%22automate+everything.+monitor+relentlessly.%22)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/CPU-12%25-00ff41?style=flat-square&labelColor=0d0d0d&logo=linux&logoColor=00ff41)
+![](https://img.shields.io/badge/MEM-28%25-00ff41?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/NET-↑↓_3.2KB%2Fs-00ff41?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/UPTIME-99.97%25-00ff41?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/STATUS-ALL_SYSTEMS_GO-00ff41?style=flat-square&labelColor=0d0d0d)
+
+</div>
+
+<br/>
+
+---
 
 <table width="100%">
 <tr>
@@ -29,28 +33,45 @@
 ## `> PROFILE`
 
 ```yaml
-role       : DEVOPS / SRE
-focus      : RELIABILITY
-           : AUTOMATION
-           : SCALABILITY
-experience : PRODUCTION SYSTEMS
-learning   : Go 🐹
-motto      : "Automate everything.
-              Monitor relentlessly."
+# /etc/ruslan/config.yaml
+---
+role:
+  - DevOps Engineer
+  - SRE
+  - Go Developer
+
+location   : "Helsinki / Remote"
+experience : "Production @ scale"
+learning   : "Go 🐹 / Android"
+
+focus:
+  - Reliability
+  - Automation
+  - Anti-censorship tools
+
+motto: >
+  Automate everything.
+  Monitor relentlessly.
+  Leave no alert unresolved.
 ```
 
 </td>
 <td width="50%" valign="top">
 
-## `> SRE PRINCIPLES`
+## `> SRE RUNBOOK`
 
 ```
-[✔] SLI / SLO        measure reliability
-[✔] ERROR BUDGET      balance velocity
-[✔] TOIL REDUCTION    automate continuously
-[✔] BLAMELESS         learn from incidents
-[✔] CONTINUOUS IMPROV make things better
-                       UPTIME: 99.9%
+╔══════════════════════════════════════╗
+║  SLI / SLO    ▓▓▓▓▓▓▓▓▓▓  measure  ║
+║  ERROR BUDGET ▓▓▓▓▓▓▓▓░░  balance  ║
+║  TOIL →  /dev/null        automate  ║
+║  BLAMELESS POSTMORTEM     learn     ║
+║  CHAOS ENGINEERING        harden    ║
+╠══════════════════════════════════════╣
+║  UPTIME  ████████████████  99.97%  ║
+║  DEPLOYS ██████████░░░░░░  12/day  ║
+║  MTTR    █████░░░░░░░░░░░  < 5min  ║
+╚══════════════════════════════════════╝
 ```
 
 </td>
@@ -61,19 +82,41 @@ motto      : "Automate everything.
 
 ---
 
+## `> WHAT I'M SHIPPING NOW`
+
+```
+╭─────────────────────────────────────────────────────────────────╮
+│  🟢  ZeroRoute — Android VPN                                    │
+│      VLESS / REALITY · TLS fingerprint · Anti-DPI · Compose UI │
+│                                                                  │
+│  🟢  Proxy cascade   RU entry ──VLESS──► EU backend             │
+│      Xray-core · nginx SNI routing · BBR · iptables NAT         │
+│                                                                  │
+│  🟡  Telegram Desktop TLS hardening                             │
+│      Patching TlsSocket · Chrome 131 ClientHello fingerprint    │
+│                                                                  │
+│  🔵  Go OSINT toolkit  [in progress...]                         │
+╰─────────────────────────────────────────────────────────────────╯
+```
+
+<br/>
+
+---
+
 ## `> CORE COMPETENCIES`
 
 <div align="center">
 
-| SKILL | LEVEL |
-|---|---|
-| `SITE RELIABILITY ENGINEERING` | ![](https://img.shields.io/badge/92%25-█████████░-00ff41?style=flat-square&labelColor=0d0d0d) |
-| `INFRASTRUCTURE AS CODE` | ![](https://img.shields.io/badge/88%25-████████░░-00ff41?style=flat-square&labelColor=0d0d0d) |
-| `CI/CD & GITOPS` | ![](https://img.shields.io/badge/90%25-█████████░-00ff41?style=flat-square&labelColor=0d0d0d) |
-| `MONITORING & OBSERVABILITY` | ![](https://img.shields.io/badge/85%25-████████░░-00ff41?style=flat-square&labelColor=0d0d0d) |
-| `CONTAINERIZATION` | ![](https://img.shields.io/badge/93%25-█████████░-00ff41?style=flat-square&labelColor=0d0d0d) |
-| `AUTOMATION & SCRIPTING` | ![](https://img.shields.io/badge/90%25-█████████░-00ff41?style=flat-square&labelColor=0d0d0d) |
-| `INCIDENT MANAGEMENT` | ![](https://img.shields.io/badge/87%25-████████░░-00ff41?style=flat-square&labelColor=0d0d0d) |
+| DOMAIN | SKILL | LEVEL |
+|---|---|---|
+| **Platform** | `SITE RELIABILITY ENGINEERING` | ![](https://img.shields.io/badge/92%25-█████████░-00ff41?style=flat-square&labelColor=0d0d0d) |
+| **Platform** | `CONTAINERIZATION & K8S` | ![](https://img.shields.io/badge/93%25-█████████░-00ff41?style=flat-square&labelColor=0d0d0d) |
+| **DevOps** | `CI/CD & GITOPS` | ![](https://img.shields.io/badge/90%25-█████████░-00ff41?style=flat-square&labelColor=0d0d0d) |
+| **DevOps** | `INFRASTRUCTURE AS CODE` | ![](https://img.shields.io/badge/88%25-████████░░-00ff41?style=flat-square&labelColor=0d0d0d) |
+| **Obs** | `MONITORING & OBSERVABILITY` | ![](https://img.shields.io/badge/85%25-████████░░-00ff41?style=flat-square&labelColor=0d0d0d) |
+| **Dev** | `AUTOMATION & SCRIPTING` | ![](https://img.shields.io/badge/90%25-█████████░-00ff41?style=flat-square&labelColor=0d0d0d) |
+| **Sec** | `NETWORK / ANTI-DPI / VPN` | ![](https://img.shields.io/badge/88%25-████████░░-00ff41?style=flat-square&labelColor=0d0d0d) |
+| **Mgmt** | `INCIDENT MANAGEMENT` | ![](https://img.shields.io/badge/87%25-████████░░-00ff41?style=flat-square&labelColor=0d0d0d) |
 
 </div>
 
@@ -85,7 +128,7 @@ motto      : "Automate everything.
 
 <div align="center">
 
-**`[ ORCHESTRATION & DEPLOYMENT ]`**
+**`─── ORCHESTRATION & DEPLOYMENT ───`**
 
 <br/>
 
@@ -97,7 +140,7 @@ motto      : "Automate everything.
 
 <br/>
 
-**`[ INFRASTRUCTURE AS CODE ]`**
+**`─── INFRASTRUCTURE AS CODE ───`**
 
 <br/>
 
@@ -106,7 +149,7 @@ motto      : "Automate everything.
 
 <br/>
 
-**`[ MESSAGING & STORAGE ]`**
+**`─── MESSAGING & STORAGE ───`**
 
 <br/>
 
@@ -114,28 +157,32 @@ motto      : "Automate everything.
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=0a0a0a)](https://rabbitmq.com)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0a0a0a)](https://redis.io)
 [![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white&labelColor=0a0a0a)](https://min.io)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0a0a)](https://postgresql.org)
 
 <br/>
 
-**`[ LANGUAGES & TOOLS ]`**
+**`─── LANGUAGES & TOOLING ───`**
 
 <br/>
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0a0a0a)](https://go.dev)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a)](https://python.org)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0a0a0a)](https://gnu.org/software/bash)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a0a)](https://git-scm.com)
 [![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0a0a0a)](https://gitlab.com)
 [![Linux](https://img.shields.io/badge/Linux-00ff41?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0a0a)](https://kernel.org)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0a0a0a)](https://gnu.org/software/bash)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0a0a0a)](https://nginx.org)
+[![Xray](https://img.shields.io/badge/Xray_Core-00ff41?style=for-the-badge&logo=v2ray&logoColor=black&labelColor=0a0a0a)](#)
 
 <br/>
 
-**`[ OBSERVABILITY STACK ]`**
+**`─── OBSERVABILITY STACK ───`**
 
 <br/>
 
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0a0a0a)](https://grafana.com)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=0a0a0a)](https://prometheus.io)
+[![Loki](https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0a0a0a)](https://grafana.com/oss/loki)
 
 </div>
 
@@ -148,14 +195,63 @@ motto      : "Automate everything.
 <div align="center">
 
 ```
- DEVELOPERS ──► GIT ──► GITLAB CI/CD ──► ARTIFACT REGISTRY
-                                │
-                                ▼
-                    ARGO CD (GitOps) ──► K8S / NOMAD CLUSTER
-                                                │
-                                                ▼
-                                    GRAFANA · PROMETHEUS
-                                     (Monitoring & Alerts)
+  ┌──────────┐     push      ┌──────────────┐    trigger    ┌───────────────────┐
+  │  DEV     │ ────────────► │  GitLab CI   │ ────────────► │  Artifact Registry│
+  │  (local) │               │  (pipeline)  │               │  (images / charts)│
+  └──────────┘               └──────────────┘               └────────┬──────────┘
+                                                                      │ pull
+                                                                      ▼
+  ┌──────────────────────────────────────────────────────────────────────────────┐
+  │                           ArgoCD  (GitOps)                                   │
+  │   git diff → reconcile → apply                      🔁 continuous sync       │
+  └─────────────────────────┬────────────────────────────────────────────────────┘
+                             │ deploy
+               ┌─────────────┴──────────────┐
+               │                            │
+               ▼                            ▼
+      ┌─────────────────┐         ┌──────────────────┐
+      │  K8s Cluster    │         │  Nomad Cluster   │
+      │  (production)   │         │  (auxiliary)     │
+      └────────┬────────┘         └────────┬─────────┘
+               │                           │
+               └─────────────┬─────────────┘
+                             │ metrics / logs
+                             ▼
+                  ┌─────────────────────┐
+                  │  Prometheus │ Loki  │
+                  │  Grafana dashboards │
+                  │  Telegram alerts 🔔 │
+                  └─────────────────────┘
+```
+
+</div>
+
+<br/>
+
+---
+
+## `> PROXY CASCADE ARCHITECTURE`
+
+<div align="center">
+
+```
+  CLIENT
+    │  (any traffic)
+    ▼
+  ┌──────────────────────┐
+  │  RU Entry Server     │  ← nginx stream + SNI routing
+  │  Let's Encrypt TLS   │    iptables NAT · BBR · conntrack
+  └──────────┬───────────┘
+             │  VLESS + REALITY (xtls-rprx-vision)
+             │  camouflage: tls.example.com
+             ▼
+  ┌──────────────────────┐
+  │  EU Backend (Xray)   │  ← actual proxy exit
+  │  TUIC v5 / Hysteria2 │    WARP / direct routing
+  └──────────────────────┘
+             │
+             ▼
+         INTERNET  🌍
 ```
 
 </div>
@@ -168,12 +264,13 @@ motto      : "Automate everything.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RsNest&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=aaffaa"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RsNest&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=aaffaa"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=RsNest&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=aaffaa&ring_color=00ff41"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RsNest&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=aaffaa"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=RsNest&theme=dark&hide_border=true&background=0D0D0D&stroke=00ff41&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00ff41&dates=557755"/>
+<img src="https://streak-stats.demolab.com?user=RsNest&theme=dark&hide_border=true&background=0D0D0D&stroke=00ff41&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00ff41&dates=557755&currStreakNum=00ff41&sideNums=00ff41"/>
 
 </div>
 
@@ -193,12 +290,41 @@ motto      : "Automate everything.
 
 ---
 
+## `> cat /proc/interests`
+
+<div align="center">
+
+```
+DevOps & SRE          │ ████████████████████  production at scale
+VPN / Anti-DPI        │ ██████████████████░░  VLESS · REALITY · TLS
+Go Development        │ ████████████░░░░░░░░  learning & building
+Security Research     │ ██████████████░░░░░░  pentesting · analysis
+Telegram Bots         │ ████████████████░░░░  aiogram 3.x · production
+CS2 / Faceit          │ █████████░░░░░░░░░░░  for the rank 🎮
+```
+
+</div>
+
+<br/>
+
+---
+
 ## `> ping ruslan.dev`
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-0a0a0a?style=for-the-badge&logo=telegram&logoColor=00ff41&label=t.me%2Fnadzerateli)](https://t.me/nadzerateli)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff41&label=RsNest)](https://github.com/RsNest)
+[![Telegram](https://img.shields.io/badge/t.me%2Fnadzerateli-Telegram-0a0a0a?style=for-the-badge&logo=telegram&logoColor=00ff41&labelColor=0a0a0a&color=0a0a0a)](https://t.me/nadzerateli)
+[![GitHub](https://img.shields.io/badge/RsNest-GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0a0a0a&color=0a0a0a)](https://github.com/RsNest)
+
+<br/>
+
+```
+PING ruslan.dev (x.x.x.x): 56 bytes of data
+64 bytes: icmp_seq=0 ttl=64 time=1.2 ms   ✔  available
+64 bytes: icmp_seq=1 ttl=64 time=0.9 ms   ✔  available
+--- ruslan.dev ping statistics ---
+packets: 2 transmitted, 2 received, 0% packet loss
+```
 
 </div>
 
@@ -206,8 +332,10 @@ motto      : "Automate everything.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:000000&height=100&section=footer&text=sre%40localhost%3A~%24%20exit%200&fontColor=00ff41&fontSize=16&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001a00,100:000000&height=120&section=footer&text=sre%40localhost%3A~%24%20exit%200&fontColor=00ff41&fontSize=18&fontAlignY=65&animation=twinkling" width="100%"/>
 
-`KEEP CALM AND AUTOMATE`
+```
+[ KEEP CALM AND AUTOMATE EVERYTHING ]
+```
 
 </div>

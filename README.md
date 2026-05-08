@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:001a33,100:0d0d0d&height=140&section=header&text=RsNest&fontColor=00eeff&fontSize=48&fontAlignY=48&desc=DevOps+·+SRE+·+Go&descFontColor=336688&descSize=15&descAlignY=72" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=001020&height=180&text=RsNest&fontColor=00eeff&fontSize=54&fontAlign=72&fontAlignY=52&desc=DevOps+·+SRE+·+Go&descFontColor=336688&descSize=16&descAlign=72&descAlignY=70" width="100%"/>
 
 <br/>
-
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=900&color=00CCDD&background=00000000&center=true&vCenter=true&width=580&lines=kubectl+get+pods+-A+%7C+grep+-v+Running+%E2%86%92+0+issues;terraform+plan+%7C+grep+%220+to+destroy%22+%E2%86%92+%E2%9C%94;argocd+app+sync+production+--force+%E2%86%92+%E2%9C%94;zeroproxy+--protocol+vless+--reality+on+%F0%9F%9F2)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@
 ---
 
 ```yaml
-location : Helsinki / Remote
+location : 🇷🇺 Russia / Remote
 role     : DevOps · SRE · Go Developer
 stack    : K8s · ArgoCD · Terraform · Xray-core · Nomad
 focus    : reliability · automation · anti-censorship
@@ -25,9 +25,15 @@ focus    : reliability · automation · anti-censorship
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=RsNest&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00eeff&icon_color=0077cc&text_color=446677&ring_color=0055aa"/>
-&nbsp;&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RsNest&layout=compact&langs_count=6&theme=nord&hide_border=true&bg_color=0d1117&title_color=00eeff&text_color=446677"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RsNest&theme=github_dark" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RsNest&theme=github_dark" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RsNest&theme=github_dark" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RsNest&theme=github_dark" height="160"/>
 
 </div>
 
@@ -97,4 +103,4 @@ focus    : reliability · automation · anti-censorship
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:001a33,100:0d0d0d&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=001020&height=80&section=footer&reversal=true" width="100%"/>

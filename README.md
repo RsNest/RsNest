@@ -6,6 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=900&color=00CCDD&background=00000000&center=true&vCenter=true&width=580&lines=kubectl+get+pods+-A+%7C+grep+-v+Running+%E2%86%92+0+issues;terraform+plan+%7C+grep+%220+to+destroy%22+%E2%86%92+%E2%9C%94;argocd+app+sync+production+--force+%E2%86%92+%E2%9C%94;zeroproxy+--protocol+vless+--reality+on+%F0%9F%9F2)](https://git.io/typing-svg)
 
+<br/>
+
+![](https://komarev.com/ghpvc/?username=RsNest&style=flat-square&color=001a33&labelColor=0d1117&label=profile+views)
+
 </div>
 
 <br/>
@@ -24,6 +28,10 @@ focus    : reliability · automation · anti-censorship
 <br/>
 
 <div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RsNest&theme=nord&no-frame=true&margin-w=6&column=7&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RsNest&theme=github_dark" width="100%"/>
 

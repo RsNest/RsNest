@@ -1,253 +1,53 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:001a33,100:0d0d0d&height=140&section=header&text=RsNest&fontColor=00eeff&fontSize=48&fontAlignY=48&desc=DevOps+·+SRE+·+Go&descFontColor=336688&descSize=15&descAlignY=72" width="100%"/>
+
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:001833,80:00264d,100:0d0d0d&height=180&section=header&text=%3E_%20RUSLAN&fontColor=00eeff&fontSize=58&fontAlignY=45&desc=DevOps+Engineer+%C2%B7+SRE+%C2%B7+Go+Developer&descFontColor=0099bb&descSize=18&descAlignY=68" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=900&color=00EEFF&background=00000000&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+DevOps+%2F+SRE+%2F+Go+Dev;%24+kubectl+get+pods+-A+%7C+grep+-v+Running+%23+0+issues;%24+argocd+app+sync+production+--force+%E2%9C%94;%24+terraform+plan+%7C+grep+%220+to+destroy%22+%E2%9C%94;%24+./zeroproxy+--protocol+vless+--reality+on+%F0%9F%9F2;%24+git+log+MHSanaei%2F3x-ui+%23+%40RsNest+merged+v2.9.3+%F0%9F%9F2;%24+echo+%22automate+everything.+monitor+relentlessly.%22)](https://git.io/typing-svg)
-
-<br/>
-
-![](https://img.shields.io/badge/CPU-12%25-00eeff?style=flat-square&labelColor=0d1117&logo=linux&logoColor=00eeff)
-![](https://img.shields.io/badge/MEM-28%25-00eeff?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/NET-3.2_KB%2Fs-00eeff?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/UPTIME-99.97%25-00eeff?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/STATUS-nominal-00cc44?style=flat-square&labelColor=0d1117)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=900&color=00CCDD&background=00000000&center=true&vCenter=true&width=580&lines=kubectl+get+pods+-A+%7C+grep+-v+Running+%E2%86%92+0+issues;terraform+plan+%7C+grep+%220+to+destroy%22+%E2%86%92+%E2%9C%94;argocd+app+sync+production+--force+%E2%86%92+%E2%9C%94;zeroproxy+--protocol+vless+--reality+on+%F0%9F%9F2)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
 ---
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-## `> PROFILE`
 
 ```yaml
-# /etc/ruslan/config.yaml
+location : Helsinki / Remote
+role     : DevOps · SRE · Go Developer
+stack    : K8s · ArgoCD · Terraform · Xray-core · Nomad
+focus    : reliability · automation · anti-censorship
+```
+
 ---
-role:
-  - DevOps Engineer
-  - SRE
-  - Go Developer
-
-location   : "Helsinki / Remote"
-experience : "Production @ scale"
-learning   : "Go · Android"
-
-focus:
-  - Reliability
-  - Automation
-  - Anti-censorship tools
-
-motto: >
-  Automate everything.
-  Monitor relentlessly.
-```
-
-</td>
-<td width="50%" valign="top">
-
-## `> SRE RUNBOOK`
-
-```
-╔══════════════════════════════════════╗
-║  SLI / SLO    ▓▓▓▓▓▓▓▓▓▓  measure  ║
-║  ERROR BUDGET ▓▓▓▓▓▓▓▓░░  balance  ║
-║  TOIL →  /dev/null        automate  ║
-║  BLAMELESS POSTMORTEM     learn     ║
-║  CHAOS ENGINEERING        harden    ║
-╠══════════════════════════════════════╣
-║  UPTIME  ████████████████  99.97%  ║
-║  DEPLOYS ██████████░░░░░░  12/day  ║
-║  MTTR    █████░░░░░░░░░░░  < 5min  ║
-╚══════════════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
 
 <br/>
-
----
-
-## `> OPEN SOURCE`
-
-I contribute to open source projects in the areas of **VPN infrastructure**, **proxy protocols**, and **anti-censorship tooling**.
-
-[![3x-ui contributor](https://img.shields.io/badge/contributor-MHSanaei%2F3x--ui-00cc44?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/MHSanaei/3x-ui)
-[![merged](https://img.shields.io/badge/merged-v2.9.3-00eeff?style=flat-square&labelColor=0d1117)](https://github.com/MHSanaei/3x-ui/releases/tag/v2.9.3)
-
-<br/>
-
----
-
-## `> WHAT I'M BUILDING`
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-**🛡️ ZeroRoute**
-
-![](https://img.shields.io/badge/status-active-00cc44?style=flat-square&labelColor=0d1117)
-
-Android VPN app<br/>
-`VLESS` `REALITY` `Anti-DPI`<br/>
-Jetpack Compose UI
-
-</td>
-<td align="center" width="25%">
-
-**🔀 Proxy Cascade**
-
-![](https://img.shields.io/badge/status-active-00cc44?style=flat-square&labelColor=0d1117)
-
-RU entry → EU backend<br/>
-`Xray` `nginx SNI` `BBR`<br/>
-iptables NAT
-
-</td>
-<td align="center" width="25%">
-
-**🔐 TG TLS Patch**
-
-![](https://img.shields.io/badge/status-WIP-ffaa00?style=flat-square&labelColor=0d1117)
-
-Telegram Desktop<br/>
-`TlsSocket` hardening<br/>
-Chrome 131 fingerprint
-
-</td>
-<td align="center" width="25%">
-
-**🔍 Go OSINT**
-
-![](https://img.shields.io/badge/status-early-0077ff?style=flat-square&labelColor=0d1117)
-
-OSINT toolkit in Go<br/>
-`Go` research tool<br/>
-in progress...
-
-</td>
-</tr>
-</table>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=RsNest&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00eeff&icon_color=0077cc&text_color=446677&ring_color=0055aa"/>
+&nbsp;&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RsNest&layout=compact&langs_count=6&theme=nord&hide_border=true&bg_color=0d1117&title_color=00eeff&text_color=446677"/>
 
 </div>
 
 <br/>
 
----
-
-## `> TOOLSET`
-
 <div align="center">
 
-**ORCHESTRATION & DEPLOYMENT**
-
-[![Skills](https://skillicons.dev/icons?i=kubernetes,docker,helm,ansible,terraform&theme=dark&perline=5)](https://skillicons.dev)
-
-<br/>
-
-**LANGUAGES & TOOLING**
-
-[![Skills](https://skillicons.dev/icons?i=go,python,bash,git,gitlab,nginx,linux&theme=dark&perline=7)](https://skillicons.dev)
-
-<br/>
-
-**DATA & MESSAGING**
-
-[![Skills](https://skillicons.dev/icons?i=redis,postgres,kafka,rabbitmq&theme=dark&perline=4)](https://skillicons.dev)
-
-<br/>
-
-**OBSERVABILITY**
-
-[![Skills](https://skillicons.dev/icons?i=grafana,prometheus&theme=dark&perline=2)](https://skillicons.dev)
-
-<br/>
-
-[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white&labelColor=0d1117)](https://argoproj.github.io)
-[![Nomad](https://img.shields.io/badge/Nomad-00CA8E?style=for-the-badge&logo=hashicorp&logoColor=white&labelColor=0d1117)](https://www.nomadproject.io)
-[![Loki](https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0d1117)](https://grafana.com/oss/loki)
-[![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white&labelColor=0d1117)](https://min.io)
-[![Xray](https://img.shields.io/badge/Xray_Core-00eeff?style=for-the-badge&labelColor=0d1117)](#)
+<img src="https://streak-stats.demolab.com?user=RsNest&theme=nord&hide_border=true&background=0D1117&stroke=001833&ring=00eeff&fire=00aacc&currStreakLabel=00eeff&sideLabels=335566&dates=335566&currStreakNum=00eeff&sideNums=0088bb"/>
 
 </div>
 
 <br/>
 
----
-
-## `> ARCHITECTURE`
-
 <div align="center">
 
-```
-  ┌──────────┐     push      ┌──────────────┐    trigger    ┌───────────────────┐
-  │  DEV     │ ────────────► │  GitLab CI   │ ────────────► │  Artifact Registry│
-  └──────────┘               └──────────────┘               └────────┬──────────┘
-                                                                      │ pull
-                                                                      ▼
-  ┌─────────────────────────────────────────────────────────────────────────────┐
-  │                          ArgoCD  (GitOps)  🔁 continuous sync               │
-  └────────────────────────────────┬────────────────────────────────────────────┘
-                     ┌─────────────┴──────────────┐
-                     ▼                            ▼
-            ┌─────────────────┐         ┌──────────────────┐
-            │  K8s Cluster    │         │  Nomad Cluster   │
-            └────────┬────────┘         └────────┬─────────┘
-                     └──────────────┬────────────┘
-                                    ▼
-                         ┌──────────────────────┐
-                         │  Prometheus  ·  Loki  │
-                         │  Grafana  ·  Alerts 🔔 │
-                         └──────────────────────┘
-```
-
-```
-  CLIENT → [RU Entry: nginx SNI · BBR] ──VLESS+REALITY──► [EU Xray: TUIC·Hysteria2] → 🌍
-```
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RsNest&theme=react-dark&bg_color=0d1117&color=00ccdd&line=003d66&point=00eeff&area_color=001a33&area=true&hide_border=true&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <br/>
-
----
-
-## `> STATS`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RsNest&theme=nord&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RsNest&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00eeff&icon_color=00aaff&text_color=88aabb"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RsNest&layout=compact&langs_count=8&theme=nord&hide_border=true&bg_color=0d1117&title_color=00eeff&text_color=88aabb"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=RsNest&theme=nord&hide_border=true&background=0D1117&stroke=00aaff&ring=00eeff&fire=00ccff&currStreakLabel=00eeff&sideLabels=00aacc&dates=446677&currStreakNum=00eeff&sideNums=00ccff"/>
-
-<br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RsNest&theme=react-dark&bg_color=0d1117&color=00eeff&line=0077cc&point=00eeff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
----
-
-## `> CONTRIBUTIONS`
 
 <div align="center">
 
@@ -259,15 +59,42 @@ in progress...
 
 ---
 
-## `> CONTACT`
+## `> building`
+
+| project | stack | status |
+|---|---|---|
+| **ZeroRoute** — Android VPN app | `VLESS` `REALITY` `Jetpack Compose` | ![](https://img.shields.io/badge/active-00cc44?style=flat-square&labelColor=0d1117) |
+| **Proxy Cascade** — RU → EU tunnel | `Xray` `nginx SNI` `BBR` | ![](https://img.shields.io/badge/active-00cc44?style=flat-square&labelColor=0d1117) |
+| **TG TLS Patch** — DPI hardening | `TlsSocket` `Chrome 131 fingerprint` | ![](https://img.shields.io/badge/WIP-ffaa00?style=flat-square&labelColor=0d1117) |
+| **Go OSINT** — research toolkit | `Go` `Cobra` | ![](https://img.shields.io/badge/early-0077ff?style=flat-square&labelColor=0d1117) |
+
+<br/>
+
+**Open source** → [`MHSanaei/3x-ui`](https://github.com/MHSanaei/3x-ui) · merged @ [v2.9.3](https://github.com/MHSanaei/3x-ui/releases/tag/v2.9.3)
+
+---
+
+<br/>
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-nadzerateli-0d1117?style=for-the-badge&logo=telegram&logoColor=00eeff&labelColor=0d1117)](https://t.me/nadzerateli)
-[![GitHub](https://img.shields.io/badge/GitHub-RsNest-0d1117?style=for-the-badge&logo=github&logoColor=00eeff&labelColor=0d1117)](https://github.com/RsNest)
+[![Skills](https://skillicons.dev/icons?i=kubernetes,docker,helm,terraform,ansible,go,python,bash,gitlab,nginx,redis,postgres,kafka,grafana,prometheus&theme=dark&perline=8)](https://skillicons.dev)
+
+<br/><br/>
+
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-0d1117?style=flat-square&logo=argo&logoColor=00eeff)](https://argoproj.github.io)
+[![Nomad](https://img.shields.io/badge/Nomad-0d1117?style=flat-square&logo=hashicorp&logoColor=00eeff)](https://www.nomadproject.io)
+[![Loki](https://img.shields.io/badge/Loki-0d1117?style=flat-square&logo=grafana&logoColor=00eeff)](https://grafana.com/oss/loki)
+[![MinIO](https://img.shields.io/badge/MinIO-0d1117?style=flat-square&logo=minio&logoColor=00eeff)](https://min.io)
+[![Xray](https://img.shields.io/badge/Xray--core-0d1117?style=flat-square&logoColor=00eeff)](#)
+
+<br/><br/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=00eeff)](https://t.me/nadzerateli)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00eeff)](https://github.com/RsNest)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:00264d,80:001833,100:0d0d0d&height=100&section=footer&text=automate+%C2%B7+monitor+%C2%B7+iterate&fontColor=0077aa&fontSize=16&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:001a33,100:0d0d0d&height=80&section=footer" width="100%"/>

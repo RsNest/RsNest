@@ -38,14 +38,18 @@ I build, operate and troubleshoot microservice platforms across production and p
 ### 📊 `> telemetry`
 
 <div align="center">
-<table width="100%">
-  <tr>
-    <td width="50%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=RsNest&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00CCDD&icon_color=00B8CC&text_color=9EDFE8&ring_color=003B5C" alt="stats" width="100%"/></td>
-    <td width="50%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RsNest&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00CCDD&text_color=9EDFE8" alt="langs" width="100%"/></td>
-  </tr>
-</table>
 
-<img src="https://streak-stats.demolab.com?user=RsNest&theme=nord&hide_border=true&background=0D1117&stroke=003B5C&ring=00CCDD&fire=00AACC&currStreakLabel=00CCDD&sideLabels=7AA9B0&dates=597B82&currStreakNum=E6FCFF&sideNums=9EDFE8" alt="streak" width="70%"/>
+<!-- Надёжный дашборд: shields.io + streak-stats. Не упираются в rate-limit. -->
+<img src="https://streak-stats.demolab.com?user=RsNest&theme=nord&hide_border=true&background=0D1117&stroke=003B5C&ring=00CCDD&fire=00AACC&currStreakLabel=00CCDD&sideLabels=7AA9B0&dates=597B82&currStreakNum=E6FCFF&sideNums=9EDFE8" alt="streak" width="72%"/>
+
+<br/><br/>
+
+![Followers](https://img.shields.io/github/followers/RsNest?style=flat-square&label=Followers&labelColor=0D1117&color=00CCDD&logo=github&logoColor=00CCDD)
+![Public Repos](https://img.shields.io/github/repos/RsNest?style=flat-square&label=Public%20Repos&labelColor=0D1117&color=00B8CC&logo=git&logoColor=00CCDD)
+![Profile Stars](https://img.shields.io/github/stars/RsNest/RsNest?style=flat-square&label=Profile%20Stars&labelColor=0D1117&color=00CCDD&logo=star&logoColor=00CCDD)
+![Profile Forks](https://img.shields.io/github/forks/RsNest/RsNest?style=flat-square&label=Profile%20Forks&labelColor=0D1117&color=003B5C&logo=github&logoColor=00CCDD)
+![Last Commit](https://img.shields.io/github/last-commit/RsNest/RsNest?style=flat-square&label=Last%20Commit&labelColor=0D1117&color=00B8CC&logo=git&logoColor=00CCDD)
+![Commits/y](https://img.shields.io/github/commit-activity/y/RsNest/RsNest?style=flat-square&label=Commits%2Fyear&labelColor=0D1117&color=00CCDD&logo=github&logoColor=00CCDD)
 
 </div>
 
@@ -87,16 +91,16 @@ I build, operate and troubleshoot microservice platforms across production and p
 
 <div align="center">
 
-<!-- Случайная dev-цитата, обновляется при каждом открытии -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" width="80%"/>
-
-<br/><br/>
-
 ![Uptime](https://img.shields.io/badge/uptime-99.99%25-00B85A?style=flat-square&labelColor=0D1117)
 ![Powered by](https://img.shields.io/badge/powered%20by-%E2%98%95%20%26%20systemctl%20restart-FF8C00?style=flat-square&labelColor=0D1117)
 ![Works on](https://img.shields.io/badge/works%20on-my%20machine-00CCDD?style=flat-square&labelColor=0D1117)
 ![Arch](https://img.shields.io/badge/I%20use%20arch-btw-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![DNS](https://img.shields.io/badge/it%27s%20always-DNS-F0A000?style=flat-square&labelColor=0D1117)
+
+<br/><br/>
+
+> «There are 10 types of people: those who understand binary, those who don't, and those who deploy to prod on Friday.»
+> — `cat /dev/random`
 
 </div>
 
@@ -129,25 +133,16 @@ $ # 🤞 ничего не отвалилось...
 
 ---
 
-### 🏆 `> achievements`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RsNest&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="95%" alt="trophies"/>
-
-</div>
-
----
-
 ### 📈 `> activity`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RsNest&theme=github_dark" width="100%" alt="activity summary" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RsNest&theme=react-dark&bg_color=0D1117&color=9EDFE8&line=007C91&point=00E5FF&area_color=003B5C&area=true&hide_border=true&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RsNest&theme=react-dark&bg_color=0D1117&color=9EDFE8&line=007C91&point=00E5FF&area_color=003B5C&area=true&hide_border=true&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- 🐍 живая змейка из контрибуций -->
+<img src="https://raw.githubusercontent.com/RsNest/RsNest/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
 
@@ -158,11 +153,6 @@ $ # 🤞 ничего не отвалилось...
 Want to talk infrastructure, reliability or networking? Reach me on **[Telegram — @nadzerateli](https://t.me/nadzerateli)**.
 
 <div align="center">
-
-<br/>
-
-<!-- 🐍 живая змейка из контрибуций -->
-<img src="https://raw.githubusercontent.com/RsNest/RsNest/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001020,50:003B5C,100:00B8CC&height=110&section=footer" width="100%" alt="footer"/>
 

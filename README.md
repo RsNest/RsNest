@@ -39,18 +39,14 @@ I build, operate and troubleshoot microservice platforms across production and p
 
 <div align="center">
 
-<!-- streak: отдельный сервис, держит нагрузку -->
-<img src="https://streak-stats.demolab.com?user=RsNest&theme=nord&hide_border=true&background=0D1117&stroke=003B5C&ring=00CCDD&fire=00AACC&currStreakLabel=00CCDD&sideLabels=7AA9B0&dates=597B82&currStreakNum=E6FCFF&sideNums=9EDFE8" alt="streak" width="72%"/>
-
-<br/><br/>
-
-<!-- Все счётчики — shields.io, на GitHub CDN. Проверены endpoint'ы, возвращают реальные данные. -->
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/RsNest&query=$.public_repos&style=flat-square&label=Public%20Repos&labelColor=0D1117&color=00B8CC&logo=github&logoColor=00CCDD)
-![Commits/year](https://img.shields.io/github/commit-activity/y/RsNest/RsNest?style=flat-square&label=Commits%2Fyear&labelColor=0D1117&color=00CCDD&logo=git&logoColor=00CCDD)
+<!-- Все счётчики — shields.io на GitHub CDN. Каждый endpoint проверен curl'ом, отдаёт реальные данные. -->
+![Stars](https://img.shields.io/github/stars/RsNest?style=flat-square&label=Total%20Stars&labelColor=0D1117&color=00CCDD&logo=star&logoColor=00CCDD)
 ![Followers](https://img.shields.io/github/followers/RsNest?style=flat-square&label=Followers&labelColor=0D1117&color=00CCDD&logo=github&logoColor=00CCDD)
+![Commits/year](https://img.shields.io/github/commit-activity/y/RsNest/RsNest?style=flat-square&label=Commits%2Fyear&labelColor=0D1117&color=00B8CC&logo=git&logoColor=00CCDD)
 ![Contributors](https://img.shields.io/github/contributors/RsNest/RsNest?style=flat-square&label=Contributors&labelColor=0D1117&color=003B5C&logo=git&logoColor=00CCDD)
 ![Last Commit](https://img.shields.io/github/last-commit/RsNest/RsNest?style=flat-square&label=Last%20Commit&labelColor=0D1117&color=00B8CC&logo=git&logoColor=00CCDD)
-![Profile Created](https://img.shields.io/github/created-at/RsNest/RsNest?style=flat-square&label=Since&labelColor=0D1117&color=00CCDD&logo=github&logoColor=00CCDD)
+![Since](https://img.shields.io/github/created-at/RsNest/RsNest?style=flat-square&label=Since&labelColor=0D1117&color=00CCDD&logo=github&logoColor=00CCDD)
+![Profile Size](https://img.shields.io/github/repo-size/RsNest/RsNest?style=flat-square&label=Profile%20Size&labelColor=0D1117&color=00B8CC&logo=github&logoColor=00CCDD)
 
 </div>
 

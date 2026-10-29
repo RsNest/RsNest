@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="RsNest — DevOps, SRE and Security">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#102b36"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<path d="M64 68H136" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+<text x="64" y="111" fill="#5eead4" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4">INFRASTRUCTURE / RELIABILITY / SECURITY</text>
+<text x="60" y="204" fill="#f1f5f9" font-family="Segoe UI,Arial,sans-serif" font-size="80" font-weight="700" letter-spacing="-3">RsNest<tspan fill="#5eead4">.</tspan></text>
+<text x="64" y="248" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="22">Build with intent. Troubleshoot with evidence.</text>
+<text x="64" y="306" fill="#7d9ba9" font-family="Consolas,monospace" font-size="15">DevOps &amp; SRE  /  Linux  /  Cloud Native  /  Security</text>
+<g fill="none" stroke="#5eead4" stroke-width="1.5">
+<path d="M982 72l102 58v112l-102 58-102-58V130z" stroke-opacity=".35"/>
+<path d="M982 109l70 40v74l-70 40-70-40v-74z" stroke-opacity=".2"/>
+<path d="M949 164l-25 22 25 22m66-44 25 22-25 22m-21-57-24 70" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M880 186h-55m259 0h52" stroke-opacity=".35"/>
+</g>
+<circle cx="825" cy="186" r="4" fill="#60a5fa"/><circle cx="1136" cy="186" r="4" fill="#5eead4"/>
+</svg>
